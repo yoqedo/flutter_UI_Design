@@ -9,5 +9,5 @@ When you like it support me and stay up to Date on Instagram: [@yoqedo](https://
 
 ## GIF's and link to Code
 
-[19 - Profile Card]
- <img src="flutter_insta/instagram/assets/images/png1.png" width="250"> <img src="flutter_insta/instagram/assets/images/png2.png" width="250">
+[Instagram Clone](https://www.instagram.com/yoqedo/)<br/>
+<img src="flutter_insta/instagram/assets/images/png1.png" width="250"> <img src="flutter_insta/instagram/assets/images/png2.png" width="250">
